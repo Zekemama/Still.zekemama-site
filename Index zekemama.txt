@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tympess Evans - StillZekeMama</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+        header img {
+            max-width: 200px;
+            height: auto;
+        }
+        nav {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        .content {
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .section h2 {
+            color: #4CAF50;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+        }
+        .download-link {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="/mnt/data/EB41A8C0-709B-49C5-80D9-A3CE95918A09.jpeg" alt="StillZekeMama Logo">
+        <h1>StillZekeMama - Tympess Evans</h1>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#info">Get More Info</a>
+        <a href="#services">Services</a>
+        <a href="#journal">Free Grief Journal</a>
+    </nav>
+    <div class="content">
+        <div class="section" id="about">
+            <h2>About Me</h2>
+            <p>My name is Tympess Evans. I’m a mom of four boys, one of whom is walking with God now. I am a wife, a Christ lover, and a woman on a mission to help other women walk through grief after stillbirths and miscarriages. My job is to create space for them to grieve out loud. My hope is for them to know that God sees them even in their pain.</p>
+        </div>
+        <div class="section" id="info">
+            <h2>Get More Info</h2>
+            <p>For more information about my mission, services, and how you can get involved, please contact me.</p>
+        </div>
+        <div class="section" id="services">
+            <h2>Services</h2>
+            <p>Still Zeke Mama offers grief support through phone calls and chat services after being discharged from the hospital following stillbirths, miscarriages, or abortions. These services play a crucial role in the healing process, providing immediate access to compassionate professionals who are trained to help individuals cope with their loss. Through empathetic listening and tailored guidance, the support team helps navigate the overwhelming emotions and practical challenges that arise during this difficult time. Whether seeking solace in a phone conversation or the privacy of a chat, individuals can find comfort, validation, and a sense of connection, ensuring they do not have to face their grief alone.</p>
+            <p>Our services include text support, phone calls, and home visits after discharge from the hospital.</p>
+            <a href="https://www.canva.com/design/DAGJTgLFyY8/V6RB3xii8YzugN0WHs4Ijw/view?utm_content=DAGJTgLFyY8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" class="download-link">Sign Up for Services</a>
+        </div>
+        <div class="section" id="journal">
+            <h2>Free Grief Digital Downloadable Journal</h2>
+            <p>Download your free grief journal to help you navigate through your emotions and find peace in your journey.</p>
+            <a href="https://www.canva.com/design/DAF3ZjgBEaY/lJm-QL9aLj-c4dehI-ACgw/view?utm_content=DAF3ZjgBEaY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" class="download-link" download>Download Journal</a>
+        </div>
+    </div>
+    <footer class="footer">
+        <p>&copy; 2024 Tympess Evans - StillZekeMama. All rights reserved.</p>
+    </footer>
+</body>
+</html>
